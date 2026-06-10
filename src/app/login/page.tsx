@@ -6,8 +6,8 @@ import { createBrowserClient } from '@supabase/ssr';
 import { Lock, Mail, ArrowRight, Loader2, AlertCircle } from 'lucide-react';
 
 export default function LoginPage() {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
+  const [email, setEmail] = useState('sandeepswami63@gmail.com');
+  const [password, setPassword] = useState('123456');
   const [loading, setLoading] = useState(false);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
