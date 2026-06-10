@@ -42,7 +42,7 @@ export default function Sidebar() {
           <div className="w-10 h-10 bg-transparent rounded-xl flex items-center justify-center overflow-hidden">
             <img src="https://buildbasedigitally.com/wp-content/uploads/2026/01/cropped-Capture.png" className="w-full h-full object-contain" alt="Logo" />
           </div>
-          <span className="text-xl font-bold text-gray-900 tracking-tight">Build Base Digitally</span>
+          <span className="text-xl font-bold text-gray-900 tracking-tight">BuildBase Digitally</span>
         </div>
       </div>
 
